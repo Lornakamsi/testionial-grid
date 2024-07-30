@@ -34,7 +34,7 @@ body {
   padding: 1rem;
   border-radius: 8px;
   box-shadow: 0 0 20px;
-  height: 400px;
+  height: 200px;
 }
 
 .item1>h3 {
@@ -61,8 +61,8 @@ body {
   padding: 1rem;
   border-radius: 8px;
   box-shadow: 0 0 20px;
-  height: 290px;
-  margin-top: 180px;
+  height: 200px;
+  margin-top: 10px;
 }
 .item3 {
   grid-column: 3/4;
@@ -71,7 +71,7 @@ body {
   padding: 1.5rem;
   border-radius: 8px;
   box-shadow: 0 0 20px;
-  height: 385px;
+  height: 200px;
 }
 
 .item4 {
@@ -81,8 +81,8 @@ body {
   padding: 1rem;
   border-radius: 8px;
   box-shadow: 0 0 20px;
-  height: 300px;
-  margin-top: 180px;
+  height: 200px;
+  margin-top: 10px;
 
 }
 
@@ -93,7 +93,7 @@ body {
   padding: 1rem;
   border-radius: 8px;
   box-shadow: 0 0 20px;
-  height: 851px;
+  height: 460px;
 }
 
 h3 {
