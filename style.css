@@ -62,7 +62,7 @@ body {
   border-radius: 8px;
   box-shadow: 0 0 20px;
   height: 200px;
-  margin-bottom: 100px;
+  margin-bottom: 200px;
 }
 .item3 {
   grid-column: 3/4;
@@ -71,7 +71,7 @@ body {
   padding: 1.5rem;
   border-radius: 8px;
   box-shadow: 0 0 20px;
-  height: 200px;
+  height: 190px;
 }
 
 .item4 {
@@ -82,7 +82,7 @@ body {
   border-radius: 8px;
   box-shadow: 0 0 20px;
   height: 200px;
-  margin-bottom: 100px;
+  margin-bottom: 200px;
 }
 
 .item5 {
