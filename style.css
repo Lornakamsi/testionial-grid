@@ -142,8 +142,7 @@ p {
   }
 }
 
-@media screen and (max-width: 768px) {
-  .attribution {
+@media screen and (max-width: 768px)  {
     .attribution {
       margin-top: 400px;
     }
